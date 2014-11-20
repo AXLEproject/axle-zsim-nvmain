@@ -10,19 +10,5 @@
 [S 0] HDF5 backend: Created table, 7504 bytes/record, 18 records/write
 [S 0] HDF5 backend: Opening /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim-cmp.h5
 [S 0] HDF5 backend: Created table, 4032 bytes/record, 1 records/write
-[S 0] Initialization complete
-[S 0] Started process, PID 11201
-[S 0] procMask: 0x0
-[S 0] [0] Adjusting clocks, domain 0, de-ffwd 0
-[S 0] vDSO info initialized
-[S 0] Started contention simulation thread 0
-[S 0] Started scheduler watchdog thread
-[S 0] Thread 0 starting
-[S 0] FF control Thread TID 11206
-[S 0] Created child process 1 on the fly, inheriting 0's config
-[S 0] Thread 0 forking, child procIdx=1
-[S 0] Detected possible stall due to fake leaves (1 current)
-[S 0]  [0/0] sys_wait4 (61) @ 0x7fffe18c4d38
-[S 0] Blacklisting from future fake leaves: [0] sys_wait4 @ 0x7fffe18c4d38 | arg0 0xffffffff arg1 0x7fffffffdd9c
-[S 0] Failed assertion on build/opt/timing_event.h:173: state should be 3, 4 instead
-[S 0] WARN: [0] ContextChange, reason SIGNAL, inSyscall 0
+[S 0] WARN: Setting sim.deadlockDetection not used during configuration
+[S 0] Panic on build/opt/config.cpp:126: 1 setting not used during configuration
