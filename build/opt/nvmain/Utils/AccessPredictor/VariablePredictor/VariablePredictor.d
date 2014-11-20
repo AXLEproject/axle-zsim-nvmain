@@ -1,0 +1,28 @@
+build/opt/nvmain/Utils/AccessPredictor/VariablePredictor/VariablePredictor.os: \
+ build/opt/nvmain/Utils/AccessPredictor/VariablePredictor/VariablePredictor.cpp \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/AccessPredictor/VariablePredictor/VariablePredictor.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/AccessPredictor/AccessPredictor.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/AddressTranslator.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TranslationMethod.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Config.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SimInterface.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Stats.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/NVMObject.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/FailReasons.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Decoders/DecoderFactory.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TagGenerator.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/NVM/nvmain.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Params.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Debug.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Prefetcher.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceWriter/GenericTraceWriter.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceReader/TraceLine.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/MemoryController.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Interconnect.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/MemControl/DRAMCache/DRAMCache.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/Caches/CacheBank.h \
+ /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/MemControl/DRAMCache/AbstractDRAMCache.h
