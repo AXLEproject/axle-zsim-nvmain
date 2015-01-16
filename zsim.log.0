@@ -1,0 +1,14 @@
+[S 0] Started instance
+[S 0] Started RR scheduler, quantum=10000 phases
+[S 0] NVMainControl: Reading NVMain config file: /home/zhuguoliang/tools/axle-zsim-nvmain/zsim/tests/pcm-nvmain.config
+[S 0] NVMain: with 2600.000000 cpuFreq, 400.000000 busFreq
+[S 0] l2's children are all terminal OR PREFETCHERS, interleaving them
+[S 0] Initialized system
+[S 0] HDF5 backend: Opening /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim.h5
+[S 0] HDF5 backend: Created table, 7504 bytes/record, 140 records/write
+[S 0] HDF5 backend: Opening /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim-ev.h5
+[S 0] HDF5 backend: Created table, 7504 bytes/record, 18 records/write
+[S 0] HDF5 backend: Opening /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim-cmp.h5
+[S 0] HDF5 backend: Created table, 4032 bytes/record, 1 records/write
+[S 0] WARN: Setting sim.deadlockDetection not used during configuration
+[S 0] Panic on build/opt/config.cpp:126: 1 setting not used during configuration
